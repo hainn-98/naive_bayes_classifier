@@ -8,14 +8,12 @@
 
 - [Installation](#installation)
 - [References](#references)
-- [Contributing](#contributing)
-- [Team](#team)
 
 ---
 
 ## Installation
 
-- Clone this repo `git clone https://github.com/danghh-1998/naive_bayes_classifiier.git`
+- Clone this repo `git clone https://github.com/hainn-98/naive_bayes_classifier.git`
 - Install required packages `cd naive_bayes_classifiier && pip install -r requirements.txt`
 - Run naive bayes algorithm `cd src && python naive_bayes_classifier.py`
 
